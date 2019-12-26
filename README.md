@@ -1,0 +1,1 @@
+Its a repo with erraform and k8s script to set up RabbitMQ architecture with 2 exchange, 1 queue and 2 binding.

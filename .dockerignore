@@ -1,0 +1,10 @@
+.git
+
+katest/
+.vs
+
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+
+docker-compose.yml
